@@ -1,0 +1,773 @@
+[
+  {
+    "image_path": "images\\0D08EAC9-DC17-4E99-95B7-B79B1A6DB82E.jpg",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\0D08EAC9-DC17-4E99-95B7-B79B1A6DB82E.jpg",
+    "classifications": [
+      {
+        "probability": 0.1711915284395218,
+        "stem": [
+          "reel"
+        ],
+        "class": [
+          "reel"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\cat.jpg",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\cat.jpg",
+    "classifications": [
+      {
+        "probability": 0.828685998916626,
+        "stem": [
+          "tiger cat"
+        ],
+        "class": [
+          "tiger cat"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_0574.JPEG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_0574.JPEG",
+    "classifications": [
+      {
+        "probability": 0.21146221458911896,
+        "stem": [
+          "vending machin"
+        ],
+        "class": [
+          "vending machine"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_0581.JPEG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_0581.JPEG",
+    "classifications": [
+      {
+        "probability": 0.9131182432174683,
+        "stem": [
+          "binder",
+          "ring-bind"
+        ],
+        "class": [
+          "binder",
+          "ring-binder"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_0613.JPEG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_0613.JPEG",
+    "classifications": [
+      {
+        "probability": 0.3387659788131714,
+        "stem": [
+          "modem"
+        ],
+        "class": [
+          "modem"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_0619.JPEG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_0619.JPEG",
+    "classifications": [
+      {
+        "probability": 0.6736206412315369,
+        "stem": [
+          "projector"
+        ],
+        "class": [
+          "projector"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_0622.JPEG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_0622.JPEG",
+    "classifications": [
+      {
+        "probability": 0.15227866172790527,
+        "stem": [
+          "espresso mak"
+        ],
+        "class": [
+          "espresso maker"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_0657.JPEG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_0657.JPEG",
+    "classifications": [
+      {
+        "probability": 0.4912262558937073,
+        "stem": [
+          "notebook",
+          "notebook comput"
+        ],
+        "class": [
+          "notebook",
+          "notebook computer"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_0658.JPEG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_0658.JPEG",
+    "classifications": [
+      {
+        "probability": 0.4908353090286255,
+        "stem": [
+          "printer"
+        ],
+        "class": [
+          "printer"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_0692.JPEG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_0692.JPEG",
+    "classifications": [
+      {
+        "probability": 0.6312506794929504,
+        "stem": [
+          "modem"
+        ],
+        "class": [
+          "modem"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_0701.JPEG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_0701.JPEG",
+    "classifications": [
+      {
+        "probability": 0.13414114713668823,
+        "stem": [
+          "cellular telephon",
+          "cellular phon",
+          "cellphon",
+          "cell",
+          "mobile phon"
+        ],
+        "class": [
+          "cellular telephone",
+          "cellular phone",
+          "cellphone",
+          "cell",
+          "mobile phone"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_0703.JPEG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_0703.JPEG",
+    "classifications": [
+      {
+        "probability": 0.7581954598426819,
+        "stem": [
+          "syring"
+        ],
+        "class": [
+          "syringe"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_0720.JPEG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_0720.JPEG",
+    "classifications": [
+      {
+        "probability": 0.7220122814178467,
+        "stem": [
+          "menu"
+        ],
+        "class": [
+          "menu"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_0742.JPEG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_0742.JPEG",
+    "classifications": [
+      {
+        "probability": 0.507451593875885,
+        "stem": [
+          "limousin",
+          "limo"
+        ],
+        "class": [
+          "limousine",
+          "limo"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_0743.JPEG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_0743.JPEG",
+    "classifications": [
+      {
+        "probability": 0.6394748687744141,
+        "stem": [
+          "recreational vehicl",
+          "rv",
+          "r.v."
+        ],
+        "class": [
+          "recreational vehicle",
+          "rv",
+          "r.v."
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_0744.JPEG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_0744.JPEG",
+    "classifications": [
+      {
+        "probability": 0.9413265585899353,
+        "stem": [
+          "recreational vehicl",
+          "rv",
+          "r.v."
+        ],
+        "class": [
+          "recreational vehicle",
+          "rv",
+          "r.v."
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_0760.JPEG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_0760.JPEG",
+    "classifications": [
+      {
+        "probability": 0.6773737668991089,
+        "stem": [
+          "burrito"
+        ],
+        "class": [
+          "burrito"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_0781.JPEG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_0781.JPEG",
+    "classifications": [
+      {
+        "probability": 0.7080829739570618,
+        "stem": [
+          "web sit",
+          "websit",
+          "internet sit",
+          "site"
+        ],
+        "class": [
+          "web site",
+          "website",
+          "internet site",
+          "site"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_0784.JPEG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_0784.JPEG",
+    "classifications": [
+      {
+        "probability": 0.4493461549282074,
+        "stem": [
+          "book jacket",
+          "dust cov",
+          "dust jacket",
+          "dust wrapp"
+        ],
+        "class": [
+          "book jacket",
+          "dust cover",
+          "dust jacket",
+          "dust wrapper"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_0822.JPEG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_0822.JPEG",
+    "classifications": [
+      {
+        "probability": 0.9463815689086914,
+        "stem": [
+          "plate"
+        ],
+        "class": [
+          "plate"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_0833.JPEG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_0833.JPEG",
+    "classifications": [
+      {
+        "probability": 0.14526596665382385,
+        "stem": [
+          "ballpoint",
+          "ballpoint pen",
+          "ballpen",
+          "biro"
+        ],
+        "class": [
+          "ballpoint",
+          "ballpoint pen",
+          "ballpen",
+          "biro"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_0837.JPEG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_0837.JPEG",
+    "classifications": [
+      {
+        "probability": 0.12924998998641968,
+        "stem": [
+          "traffic light",
+          "traffic sign",
+          "stoplight"
+        ],
+        "class": [
+          "traffic light",
+          "traffic signal",
+          "stoplight"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_0845.JPEG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_0845.JPEG",
+    "classifications": [
+      {
+        "probability": 0.7485576272010803,
+        "stem": [
+          "menu"
+        ],
+        "class": [
+          "menu"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_0848.PNG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_0848.PNG",
+    "classifications": [
+      {
+        "probability": 0.14966782927513123,
+        "stem": [
+          "bow ti",
+          "bow-ti",
+          "bowti"
+        ],
+        "class": [
+          "bow tie",
+          "bow-tie",
+          "bowtie"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_0893.JPEG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_0893.JPEG",
+    "classifications": [
+      {
+        "probability": 0.09447477012872696,
+        "stem": [
+          "ice cream",
+          "icecream"
+        ],
+        "class": [
+          "ice cream",
+          "icecream"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_0904.JPEG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_0904.JPEG",
+    "classifications": [
+      {
+        "probability": 0.9091739654541016,
+        "stem": [
+          "tow truck",
+          "tow car",
+          "wrecker"
+        ],
+        "class": [
+          "tow truck",
+          "tow car",
+          "wrecker"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_0961.JPEG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_0961.JPEG",
+    "classifications": [
+      {
+        "probability": 0.1830427497625351,
+        "stem": [
+          "minivan"
+        ],
+        "class": [
+          "minivan"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_0981.JPG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_0981.JPG",
+    "classifications": [
+      {
+        "probability": 0.8183152675628662,
+        "stem": [
+          "warplan",
+          "military plan"
+        ],
+        "class": [
+          "warplane",
+          "military plane"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_0982.JPG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_0982.JPG",
+    "classifications": [
+      {
+        "probability": 0.914559006690979,
+        "stem": [
+          "warplan",
+          "military plan"
+        ],
+        "class": [
+          "warplane",
+          "military plane"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_0983.JPEG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_0983.JPEG",
+    "classifications": [
+      {
+        "probability": 0.5631630420684814,
+        "stem": [
+          "packet"
+        ],
+        "class": [
+          "packet"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_1001.JPEG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_1001.JPEG",
+    "classifications": [
+      {
+        "probability": 0.46831586956977844,
+        "stem": [
+          "backpack",
+          "back pack",
+          "knapsack",
+          "packsack",
+          "rucksack",
+          "haversack"
+        ],
+        "class": [
+          "backpack",
+          "back pack",
+          "knapsack",
+          "packsack",
+          "rucksack",
+          "haversack"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_1039.JPEG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_1039.JPEG",
+    "classifications": [
+      {
+        "probability": 0.6570324897766113,
+        "stem": [
+          "cab",
+          "hack",
+          "taxi",
+          "taxicab"
+        ],
+        "class": [
+          "cab",
+          "hack",
+          "taxi",
+          "taxicab"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_1041.JPEG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_1041.JPEG",
+    "classifications": [
+      {
+        "probability": 0.3528992235660553,
+        "stem": [
+          "police van",
+          "police wagon",
+          "paddy wagon",
+          "patrol wagon",
+          "wagon",
+          "black maria"
+        ],
+        "class": [
+          "police van",
+          "police wagon",
+          "paddy wagon",
+          "patrol wagon",
+          "wagon",
+          "black maria"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_1043.JPEG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_1043.JPEG",
+    "classifications": [
+      {
+        "probability": 0.2863733768463135,
+        "stem": [
+          "minivan"
+        ],
+        "class": [
+          "minivan"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_1061.JPEG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_1061.JPEG",
+    "classifications": [
+      {
+        "probability": 0.9868230819702148,
+        "stem": [
+          "triumphal arch"
+        ],
+        "class": [
+          "triumphal arch"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_1073.JPEG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_1073.JPEG",
+    "classifications": [
+      {
+        "probability": 0.22027242183685303,
+        "stem": [
+          "pickelhaub"
+        ],
+        "class": [
+          "pickelhaube"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_1080.JPEG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_1080.JPEG",
+    "classifications": [
+      {
+        "probability": 0.9295694828033447,
+        "stem": [
+          "hotdog",
+          "hot dog",
+          "red hot"
+        ],
+        "class": [
+          "hotdog",
+          "hot dog",
+          "red hot"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_1135.JPEG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_1135.JPEG",
+    "classifications": [
+      {
+        "probability": 0.19104057550430298,
+        "stem": [
+          "obelisk"
+        ],
+        "class": [
+          "obelisk"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_1167.JPEG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_1167.JPEG",
+    "classifications": [
+      {
+        "probability": 0.995786726474762,
+        "stem": [
+          "pizza",
+          "pizza pi"
+        ],
+        "class": [
+          "pizza",
+          "pizza pie"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_1201.JPEG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_1201.JPEG",
+    "classifications": [
+      {
+        "probability": 0.5834608674049377,
+        "stem": [
+          "scoreboard"
+        ],
+        "class": [
+          "scoreboard"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_1235.JPEG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_1235.JPEG",
+    "classifications": [
+      {
+        "probability": 0.30420979857444763,
+        "stem": [
+          "warplan",
+          "military plan"
+        ],
+        "class": [
+          "warplane",
+          "military plane"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_1359.JPEG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_1359.JPEG",
+    "classifications": [
+      {
+        "probability": 0.9655812978744507,
+        "stem": [
+          "stethoscop"
+        ],
+        "class": [
+          "stethoscope"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_1360.JPEG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_1360.JPEG",
+    "classifications": [
+      {
+        "probability": 0.16492964327335358,
+        "stem": [
+          "toilet tissu",
+          "toilet pap",
+          "bathroom tissu"
+        ],
+        "class": [
+          "toilet tissue",
+          "toilet paper",
+          "bathroom tissue"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_1391.JPG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_1391.JPG",
+    "classifications": [
+      {
+        "probability": 0.9655493497848511,
+        "stem": [
+          "volcano"
+        ],
+        "class": [
+          "volcano"
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "images\\IMG_1420.JPEG",
+    "absolute_path": "F:\\src\\rusty_torch\\images\\IMG_1420.JPEG",
+    "classifications": [
+      {
+        "probability": 0.32300126552581787,
+        "stem": [
+          "librari"
+        ],
+        "class": [
+          "library"
+        ]
+      }
+    ]
+  }
+]
